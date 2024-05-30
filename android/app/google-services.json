@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "424602228709",
+    "project_id": "conselec-7242d",
+    "storage_bucket": "conselec-7242d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:424602228709:android:7aa04221cca0b856ed810c",
+        "android_client_info": {
+          "package_name": "com.example.conselec"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDAesPzC1lZ4LCcycZMI67ddiWO_X3H01M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
